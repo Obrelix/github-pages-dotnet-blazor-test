@@ -1,7 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/gh-pages-Test/bin/Debug/net7.0
-/gh-pages-Test/.vs/gh-pages-Test
-/gh-pages-Test/obj
